@@ -40,7 +40,7 @@ These signals were used to estimate variables of the feature vector for each pat
 * x_test.txt
 * y_test.txt
 
-Assign column names and merge to create one data set.
+Assign the column names and merge to create one data set.
 
 ## 2. Extract only the measurements on the mean and standard deviation for each measurement.
 
@@ -50,11 +50,20 @@ Create a logical vector that contains TRUE values for the ID, mean and stdev col
 
 Merge data subset with the activityType table to include the descriptive activity names
 
-## 4. Appropriately label the data set with descriptive activity names.
+## 4. Set the data  with the descriptive activity names.
 
 Use gsub function for pattern replacement to clean up the data labels.
 
-## 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
+* grep {base}	R Documentation
+* Pattern Matching and Replacement
+
+* Description
+
+* grep, grepl, regexpr, gregexpr and regexec search for matches to argument pattern within each element of a character vector: they differ in the format of and amount of detail in the results.
+
+* sub and gsub perform replacement of the first and all matches respectively.
+
+## 5. Create a  independent tidy data set with the average of each variable for each activity and each subject.
 
 for the project instructions, i need to produce only a data set with the average of each veriable for each activity and subject
 

@@ -1,20 +1,16 @@
 # Getting and Cleaning Data Project
 
 
-# Description
+# Source
 
 You can the infomation about the project is on the website 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-## Source Data
 
-The description of the data used in this project can be found at The UCI Machine Learning Repository
 
-url: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-# The source data for this project can be found here.
+# The description of the data for this project can be found here.
 
 * Data Set Information
 
@@ -61,8 +57,8 @@ for the project instructions, i need to produce only a data set with the average
 
 For each record in the dataset it is provided:
 
-Triaxial acceleration from the accelerometer and the estimated body acceleration.
-Triaxial Angular velocity from the gyroscope.
-A 561-feature vector with time and frequency domain variables.
-Its activity label.
-An identifier of the subject who carried out the experiment.
+* Triaxial acceleration from the accelerometer and the estimated body acceleration.
+* Triaxial Angular velocity from the gyroscope.
+* A 561-feature vector with time and frequency domain variables.
+* Its activity label.
+* An identifier of the subject who carried out the experiment.

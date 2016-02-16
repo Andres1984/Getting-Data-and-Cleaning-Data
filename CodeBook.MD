@@ -1,9 +1,10 @@
 # Getting and Cleaning Data Project
 
+Andrés Martínez
 
 # Source
 
-You can the infomation about the project is on the website 
+You can the infomation about the project  on the website 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -53,7 +54,7 @@ Use gsub function for pattern replacement to clean up the data labels.
 for the project instructions, i need to produce only a data set with the average of each veriable for each activity and subject
 
 
-# Attribute Information
+# Additional Information
 
 For each record in the dataset it is provided:
 
